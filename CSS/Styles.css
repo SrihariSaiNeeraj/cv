@@ -1,0 +1,34 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  height: 0;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+
+}
+
+h1 {
+  color:#ff8c00;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.check:hover {
+  color:gold;
+}
+
+.ex:hover {
+  color:gold;
+  background-color: gold;
+}
+
+.ex:visited {
+  color:green;
+}
